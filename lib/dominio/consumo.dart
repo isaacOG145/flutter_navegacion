@@ -15,7 +15,7 @@ class Consumo {
 
 class ReglaConsumo {
 
-  static const topelitros = 18038.0;
+  static const topelitros = 10000.0;
   static const topekwh = 580.8;
 
 
